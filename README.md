@@ -4,7 +4,7 @@
 22.07.2022
 
 ### Project Title
-Section 2: Improve Documentation
+Post your work on github
 
 ### Description
 Create a GitHub profile if you have not already done so. You can visit https://github.com/ to do this.
@@ -18,4 +18,5 @@ project_bikesharing_v4.py
 
 ### Credits
 stackoverflow.com
+docs.github.com/en
 
